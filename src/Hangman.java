@@ -124,7 +124,7 @@ public class Hangman{
         return guessedWord.contains(letterGuess);
     }
 
-
+    //print current state of word
     private static boolean currentWordState(String guessedWord, List<Character> playerGuesses) {
         int correctCount = 0;
         for (int i = 0; i < guessedWord.length(); i++) {
