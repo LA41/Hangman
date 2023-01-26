@@ -3,4 +3,4 @@ Hangman is a guessing game for two or more players. One player thinks of a word,
 
 My main motivation in here is building up my portfolio and skillset. With this project I learnt how to create list and load dictionary file.
 
-# big thanks to John from Coding with John, who makes this Java-trip a lot more understandable
+###big thanks to John from Coding with John, who makes this Java-trip a lot more understandable
